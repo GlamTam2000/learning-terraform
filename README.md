@@ -1,4 +1,4 @@
-# learning-terraform
+#terraform- AWS
 AWS  Infrastructure via code
 Infrastructure as code. We will be provisioning and managing cloud resources by writing a template 
 file that is well written (understandable to the mere human) and machine consumable. 
